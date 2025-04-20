@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": " https://e4c9-103-142-254-89.ngrok-free.app",
+      "permanent": false
+    }
+  ]
+}
