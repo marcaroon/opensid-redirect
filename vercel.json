@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "peacock-accurate-hugely.ngrok-free.app",
+      "destination": "https://peacock-accurate-hugely.ngrok-free.app",
       "permanent": false
     }
   ]
