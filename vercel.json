@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "http://localhost:8080",
+      "destination": "https://jackal-tidy-thoroughly.ngrok-free.app",
       "permanent": false
     }
   ]
